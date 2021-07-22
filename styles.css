@@ -37,14 +37,14 @@ h2 {
 
 h3 {
   color: var(--pink);
-  font:var(--thin);
+  font: var(--thin);
 }
 
 .rating {
   background: var(--light-grey);
   color: var(--dark);
-font: var(--bold);
-padding: 1rem 0 0.2rem;
+  font: var(--bold);
+  padding: 1rem 0 0.2rem;
 }
 
 .testimonial {
@@ -53,6 +53,16 @@ padding: 1rem 0 0.2rem;
   padding: 1rem;
   text-align: left;
 }
+.top{
+  display: flex;
+}
+.testimonial img{
+  border-radius: 100%;
+  height:4rem;
+}
+/* .name{
+  display: flex;
+} */
 
 footer {
   margin-top: 10rem;
