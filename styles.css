@@ -1,0 +1,21 @@
+
+/* ### Font
+
+- Family: [Spartan](https://fonts.google.com/specimen/Spartan)
+- Weights: 400, 500, 700 */
+:root{
+  /* color variables */
+  --dark:hsl(300, 43%, 22%);
+  --pink:hsl(333, 80%, 67%);
+  --grey:hsl(303, 10%, 53%);
+  --light-grey:hsl(300, 24%, 96%);
+  --white:hsl(0, 0%, 100%);
+  /* font variables */
+  --thin: 400 1rem 'Spartan', sans-serif;
+  --medium:500 1rem 'Spartan', sans-serif;
+  --bold:700 1rem 'Spartan', sans-serif;
+}
+
+body{
+  font: var(--thin);
+}
