@@ -81,9 +81,15 @@ footer {
     grid-template-columns: 1fr 2fr;
     max-width: 70rem;
   }
+.intro{
+  text-align: left;
+}
 .testimonials{
   display: flex;
   grid-column: 1/4;
+}
+.stars{
+  display: inline;
 }
 
 }
