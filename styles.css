@@ -84,13 +84,21 @@ footer {
 .intro{
   text-align: left;
 }
+
+.rating{
+  max-width: 80%;
+padding: 1rem 0 1rem 2rem;
+text-align: left;
+}
+.stars{
+  display: inline-block;
+}
+.rating-text{
+    display: inline;
+}
 .testimonials{
   display: flex;
   grid-column: 1/4;
   margin-left: -1rem;
 }
-.stars{
-  display: inline;
-}
-
 }
