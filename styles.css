@@ -96,9 +96,24 @@ text-align: left;
 .rating-text{
     display: inline;
 }
+.mid-left{
+  margin-left: 4rem;
+}
+.end-left{
+  margin-left: 8rem;
+}
 .testimonials{
   display: flex;
   grid-column: 1/4;
   margin-left: -1rem;
+}
+.testimonial{
+  max-height:80%;
+}
+.mid-down{
+  margin-top: 2rem;
+}
+.end-down{
+  margin-top: 4rem;
 }
 }
