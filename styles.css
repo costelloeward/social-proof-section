@@ -87,6 +87,7 @@ footer {
 .testimonials{
   display: flex;
   grid-column: 1/4;
+  margin-left: -1rem;
 }
 .stars{
   display: inline;
