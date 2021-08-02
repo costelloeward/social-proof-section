@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/costelloeward/social-proof-section](https://github.com/costelloeward/social-proof-section)
+- Live Site URL: [https://costelloeward.github.io/social-proof-section/](https://costelloeward.github.io/social-proof-section/)
 
 ## My process
 
@@ -50,19 +50,9 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project.
+Struggled a bit with the layout for desktop sizes, using margins for now.
 
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
 
 ### Continued development
 
@@ -80,7 +70,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.costelloeward.design)
+- Website - [Louise CW](https://www.costelloeward.design)
 - Frontend Mentor - [@costelloeward](https://www.frontendmentor.io/profile/costelloeward)
 - Twitter - [@louisecw](https://www.twitter.com/louisecw)
 
