@@ -34,6 +34,7 @@ div {
 
 h1 {
   color: var(--dark);
+  font-size: 2.5rem;
 }
 
 h2 {
@@ -108,12 +109,12 @@ text-align: left;
   margin-left: -1rem;
 }
 .testimonial{
-  max-height:80%;
+  max-height:65%;
 }
 .mid-down{
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 .end-down{
-  margin-top: 4rem;
+  margin-top: 6rem;
 }
 }
