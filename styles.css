@@ -57,7 +57,7 @@ h3 {
 .testimonial {
   background: var(--dark);
   color: var(--light-grey);
-  padding: 1rem;
+  padding: 1.5rem;
   text-align: left;
 }
 .buyer-info{
@@ -107,14 +107,18 @@ text-align: left;
   display: flex;
   grid-column: 1/4;
   margin-left: -1rem;
+  max-height: 100%;
 }
 .testimonial{
-  max-height:65%;
+  max-height:70%;
 }
-.mid-down{
-  margin-top: 3rem;
+.first{
+align-self: flex-start;
 }
-.end-down{
-  margin-top: 6rem;
+.second{
+align-self:center;
+}
+.third{
+align-self: flex-end;
 }
 }
